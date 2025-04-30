@@ -1,4 +1,4 @@
-**D$[^*]$stratify project**
+**D*stratify project**
 
 This organisation contains repositories detailing various aspects of the project's work towards developing models of thermal stratifications. 
 
