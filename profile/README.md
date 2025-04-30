@@ -1,1 +1,2 @@
-# .github
+$D[^*]stratify$ project
+
